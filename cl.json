@@ -135,6 +135,6 @@
 {"id":"9782","number":"133","name":"Radio Sol 97.7 FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/cl/master/z_radio_radio_sol_97_7_fm.png","streamUrl":"http://stream5.eltelon.com/sol-radio.aac","yourmuzeId":null,"state":"1"},
 {"id":"9783","number":"134","name":"Infinita Radio 100.1 FM","description":null,"logo":"https://raw.githubusercontent.com/dadodiapps/cl/master/z_radio_infinita_radio_100_1_fm.png","streamUrl":"http://www.emisora.cl/play/254953","yourmuzeId":null,"state":"0"},
 {"id":"15427","number":"135","name":"Radio cys de dalcahue 96.3 MHz","description":"Luis Rios <pastahuerios@gmail.com>","logo":"https://raw.githubusercontent.com/dadodiapps/cl/master/z_radio_cys.png","streamUrl":"http://streaming.chiloestreaming.com:9542","yourmuzeId":"0","state":"1"},
-{"id":"15809","number":"136","name":"Radio Virtual","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/cl/master/z_radio_virtual.jpeg","streamUrl":"http://stream5.eltelon.com/radio-virtual.aac","yourmuzeId":"0","state":"1"}
+{"id":"15809","number":"136","name":"Radio Virtual","description":"","logo":"https://raw.githubusercontent.com/dadodiapps/cl/master/z_radio_virtual.jpg","streamUrl":"http://stream5.eltelon.com/radio-virtual.aac","yourmuzeId":"0","state":"1"}
 
 ],"country":{"id":"23","name":"chile","logo":"https://raw.githubusercontent.com/dadodiapps/cl/master/chile.png","radiosNbr":null,"radiosOkNbr":null,"radiosKoNbr":null}}
